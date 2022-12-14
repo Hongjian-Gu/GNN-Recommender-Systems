@@ -53,8 +53,8 @@ Gao, C., Zheng, Y., Li, N., Li, Y., Qin, Y., Piao, J., Quan, Y., Chang, J., Jin,
 | LGCN | [Yu, W., Zhang, Z., & Qin, Z. (2022). Low-pass Graph Convolutional Network for Recommendation.](https://www.aaai.org/AAAI22Papers/AAAI-3643.WenhuiY.pdf) | AAAI | 2022 | [Python](https://github.com/Wenhui-Yu/LCFN) |
 
 ### Ranking
-| **Name** | **Paper** | **Venue** | **Year** | **Code** |
-| --- | --- | --- | --- | --- |
+| **Name** | **Paper** | **Venue** | **Year** | **Code** | **Note** |
+| --- | --- | --- | --- | --- | --- |
 | Fi-GNN | [Li, Z., Cui, Z., Wu, S., Zhang, X., & Wang, L. (2019, November). Fi-gnn: Modeling feature interactions via graph neural networks for ctr prediction. In _Proceedings of the 28th ACM International Conference on Information and Knowledge Management_ (pp. 539-548).](https://arxiv.org/pdf/1910.05552.pdf) | CIKM | 2019 | [Python](https://paperswithcode.com/paper/fi-gnn-modeling-feature-interactions-via) |
 | PUP | [Zheng, Y., Gao, C., He, X., Li, Y., & Jin, D. (2020, April). Price-aware recommendation with graph convolutional networks. In _2020 IEEE 36th International Conference on Data Engineering (ICDE)_ (pp. 133-144). IEEE.](https://arxiv.org/pdf/2003.03975.pdf) | ICDE | 2020 | [Python](https://github.com/DavyMorgan/ICDE20-PUP) |
 |A2-GCN | [Liu, F., Cheng, Z., Zhu, L., Liu, C., & Nie, L. (2020). A2-GCN: An attribute-aware attentive GCN model for recommendation. IEEE Transactions on Knowledge and Data Engineering.](https://arxiv.org/pdf/2003.09086.pdf) | TKDE | 2020 | NA |
@@ -62,7 +62,7 @@ Gao, C., Zheng, Y., Li, N., Li, Y., Qin, Y., Piao, J., Quan, Y., Chang, J., Jin,
 | DG-ENN | [Guo, W., Su, R., Tan, R., Guo, H., Zhang, Y., Liu, Z., ... & He, X. (2021). Dual Graph enhanced Embedding Neural Network for CTRPrediction. _arXiv preprint arXiv:2106.00314_.](https://arxiv.org/pdf/2106.00314.pdf) | KDD | 2021 | NA |
 | SHCF | [Li, C., Hu, L., Shi, C., Song, G., & Lu, Y. (2021). Sequence-aware Heterogeneous Graph Neural Collaborative Filtering. In _Proceedings of the 2021 SIAM International Conference on Data Mining (SDM)_ (pp. 64-72). Society for Industrial and Applied Mathematics.](http://www.shichuan.org/doc/98.pdf) | SDM | 2021 | [Python](http://www.shichuan.org/dataset/SHCF.zip) |
 | GCM | [Wu, J., He, X., Wang, X., Wang, Q., Chen, W., Lian, J., & Xie, X. (2020). Graph Convolution Machine for Context-aware Recommender System. _arXiv preprint arXiv:2001.11402_.](https://arxiv.org/pdf/2001.11402.pdf) | Frontiers of Computer Science | 2021 | [Python](https://github.com/wujcan/GCM) |
-| TGIN | [Jiang, W., Jiao, Y., Wang, Q., Liang, C., Guo, L., Zhang, Y., ... & Zhu, Y. (2022, February). Triangle Graph Interest Network for Click-through Rate Prediction. In Proceedings of the Fifteenth ACM International Conference on Web Search and Data Mining (pp. 401-409).](https://arxiv.org/pdf/2202.02698.pdf) | WSDM | 2022 | [Python](https://github.com/alibaba/tgin) |
+| TGIN | [Jiang, W., Jiao, Y., Wang, Q., Liang, C., Guo, L., Zhang, Y., ... & Zhu, Y. (2022, February). Triangle Graph Interest Network for Click-through Rate Prediction. In Proceedings of the Fifteenth ACM International Conference on Web Search and Data Mining (pp. 401-409).](https://arxiv.org/pdf/2202.02698.pdf) | WSDM | 2022 | [Python](https://github.com/alibaba/tgin) | to alleviate the elusive motivation problem, capture the real motivation for a user clicking an item from the triangles in user behavior sequences; Intra-triangle homophily + Intertriangle heterophily |
 
 ### Re-ranking
 | **Name** | **Paper** | **Venue** | **Year** | **Code** |
